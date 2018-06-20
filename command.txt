@@ -1,0 +1,5 @@
+ls - list the directory
+man - manual for commands
+cat - create file
+grep - to find the particulars
+cd - change the directory 
