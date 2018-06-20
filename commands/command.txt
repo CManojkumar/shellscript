@@ -1,8 +1,7 @@
 ls - list the directory
 man - manual for commands
-cat - create file
+cat - print file
 grep - to find the particulars
 cd - change the directory
 head <filename> - list the first  10 lines
 tail <filename> - list the last 10 lines
-  
