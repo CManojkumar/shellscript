@@ -5,3 +5,15 @@ grep - to find the particulars
 cd - change the directory
 head <filename> - list the first  10 lines
 tail <filename> - list the last 10 lines
+cd .. - back to previous directory
+cat -b <file name> - give numbers to the written lines
+cat -n <filename> - give numbers to the space line too
+cat -s <filename> - to seduce the spaces 
+cat -e <filename> - to give a doller sign also like variables
+grep -i <text> <filename> - to display strings starting with given character /case insensitive
+grep -n <text> <filename> - returns the matching along with line number
+grep -c <text> <filename> - number of lines matching
+grep -v <text> <filename> - non matching lines
+cd / - back to home directory 
+
+ 
