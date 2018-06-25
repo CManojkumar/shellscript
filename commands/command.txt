@@ -15,5 +15,26 @@ grep -n <text> <filename> - returns the matching along with line number
 grep -c <text> <filename> - number of lines matching
 grep -v <text> <filename> - non matching lines
 cd / - back to home directory 
+cp - copy files
+mv - move files like cut and paste
+mkdir - create folder or directory
+cp -i - its like interactive modes,request for overwritten files
+cp -n - does not overwritten files
+cp -r - copy directories,and hidden files too
+cp -v - verbose,view step by steppf copying process
+mv -i - request for overwritten files
+mv -v - same like cp -v
+mkdir -p -to create sub diectories into the parent directories
+mkdir -p folder1{folder2,folder3} - create parent directories and sub directories
+rm - remove files
+rmdir - remove directories
+rmdir -p - we can remove parent and child directories at the same time
+rmdir -v - same as cp -v
+rm -r - remove not eve empty directories
+rm -rp - it can remove all parent and child directories
+sort - to sort the file
+sort -r - to sort the file in reverse direction
+sort -f - to sort the file in forward direction
+
 
  
